@@ -16,4 +16,4 @@ WHERE
     b.bonus < 1000
 ORDER BY
     e.empId;
-Number of Unique Subjects Taught by Each Teacher
+User Activity for the Past 30 Days I
