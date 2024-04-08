@@ -37,6 +37,7 @@
     -- WHERE
     --     department_id IS NOT NULL;
     
+    
 -- Approach-2
 -- using union
     SELECT
