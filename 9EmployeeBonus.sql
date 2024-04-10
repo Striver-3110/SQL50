@@ -1,5 +1,6 @@
 # Write your MySQL query statement below
 
+
 SELECT
     e.name,
     b.bonus
