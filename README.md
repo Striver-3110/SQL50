@@ -2,7 +2,7 @@ This repository contains solutions to the SQL50 problems on LeetCode. Each SQL p
 
 ## Challenge Link
 
-1. Problem 1: [SQL50](https://leetcode.com/studyplan/top-sql-50/)
+[SQL50](https://leetcode.com/studyplan/top-sql-50/)
 
 ## Usage
 
