@@ -3,6 +3,7 @@
 SELECT
     euni.unique_id,
     emp.name
+
 -- Select unique_id from EmployeeUNI and name from Employees.
 FROM 
     Employees emp
