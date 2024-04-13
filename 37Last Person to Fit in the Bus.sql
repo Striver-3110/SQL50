@@ -3,6 +3,7 @@
 SELECT
     person_name
 FROM
+
     (
         SELECT
             person_name,
