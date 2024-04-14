@@ -1,10 +1,8 @@
 This repository contains solutions to the SQL50 problems on LeetCode. Each SQL problem solution is pushed to this repository for reference.
 
-## Problems List
+## Challenge Link
 
-1. Problem 1: [Recyclable and Low Fat from products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)
-   - Solution: [https://github.com/Striver-3110/SQL50/blob/master/1RecyclableAndLowFat.sql]
-
+1. Problem 1: [SQL50](https://leetcode.com/studyplan/top-sql-50/)
 
 ## Usage
 
